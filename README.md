@@ -4,6 +4,6 @@ Space Invaders Alien Invasion: Orlando Magic Edition
 Defend The Tank From Cole Anthony!
 
  How To Play:
-Download all files to same local folder.
-Open Python Interpreter.
-Run the AlienInvasion.EXE executable file.
+
+1) Download ZIP of all files to same local folder.
+2) Run the AlienInvasion.EXE executable file in a Python Interpreter
